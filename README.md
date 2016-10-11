@@ -6,6 +6,5 @@ Some part should be printed with stereolithography 3d-printer.
 
 ![Drone](drone.jpg)
 
-## TODO :
-- License
-- Convert .cdr to open format
+## TODO
+- Add the Bill of Material
